@@ -34,3 +34,4 @@ The `if __name__ == "__main__":` block ensures that the chatbot only starts when
 
  **Conclusion**
 This chatbot implementation in **Jupyter Notebook** demonstrates a simple way to create a conversational agent using the **NLTK** library and **regular expressions**. It is an interactive tool that responds to predefined patterns and can easily be extended with additional patterns and responses. The chatbot is suitable for educational purposes and basic conversational tasks and can be tested in the **Jupyter Notebook** environment, making it easy to modify and experiment with different inputs and patterns. The notebook environment provides an ideal platform for real-time interaction and debugging, allowing the user to observe and adjust the chatbot’s behavior instantly.
+***OUTPUT***:![Image](https://github.com/user-attachments/assets/9011ba6b-f327-4827-95c9-9cf566141e36)
