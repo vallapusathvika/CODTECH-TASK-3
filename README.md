@@ -1,10 +1,16 @@
 # CODTECH-TASK-3
 COMPANY:CODTECH IT SOLUTIONS
+
 NAME:VALLAPU SATHVIKA
+
 INTERN ID:CT08RGJ
+
 DOMAIN:PYTHON PROGRAMMING
+
 DURATION:4 WEEKS
+
 MENTOR:NEELA SANTOSH
+
 **DESCRIPTION OF THE CODE***
 This Python code implements a simple chatbot using the **Natural Language Toolkit (NLTK)** library. It is designed to interact with a user by recognizing specific patterns in user input and responding accordingly. The chatbot uses **regular expressions** to match patterns in the user's text and provides predefined responses. This implementation is performed in a **Jupyter Notebook**, providing an interactive and real-time environment for the chatbot's execution.
 
